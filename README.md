@@ -1,13 +1,13 @@
 # 📊 Techtextil North America — Data Analysis Case Study
 
-This repository contains a data-driven analysis of attendee and exhibitor registration data from Techtextil North America. The goal is to uncover insights that can help increase participation in future editions of the event.
+This repository contains a data-driven analysis of attendee and exhibitor registration data from Techtextil North America. My goal was to uncover insights that can help increase participation in future editions of the event.
 
 The analysis was conducted using Python and includes visualizations, demographic breakdowns, and strategic metrics.
 
 ---
 
 # 🔍 Objectives
-✔ The following questions were addressed as requested:
+**The following questions were addressed as requested:**
 
 ✔ Total registrations by visitor type.
 
@@ -22,11 +22,15 @@ The analysis was conducted using Python and includes visualizations, demographic
 - Buyers represent the largest group, followed by Speakers and Non-Exhibiting Manufacturers.
 - This suggests strong commercial interest and a solid base of returning professionals.
 
+![Visitor Type Distribution](charts/visitor_type_distribution.png.png)
+
 # 2️⃣ Top 5 Countries Represented
 - The chart below highlights the geographic concentration of attendees.
 - United States dominates with over 90% of registrations.
 - Canada, Netherlands, Mexico, and Japan follow distantly.
 - This points to an opportunity for international outreach and marketing.
+
+![Top 5 Countries](charts/top_5_countries.png.png)
 
 # 3️⃣ Demographic Question Breakdown
 Each demographic question was analyzed individually. Charts were adapted for readability and horizontal layout was used when responses were long or numerous.
@@ -35,39 +39,57 @@ Each demographic question was analyzed individually. Charts were adapted for rea
 
 ~80% of attendees are returning participants, indicating strong event loyalty.
 
+![Q1 Attendance](charts/q1_first_time_attendance.png.png)
+
 - **Q2: Job function**
 
 Most common roles: CEO/COO/Owner, Sales, and R&D Engineer.
 Suggests a mix of decision-makers and technical professionals.
 
+![Q2 Job Function](charts/q2_job_function.png.png)
+
 - **Q3: Age range**
   
 Majority are aged 45–64, indicating a mature professional audience.
+
+![Q3 Age Range](charts/q3_age_range.png.png)
 
 - **Q4: How attendees heard about the show**
 
 Most common source: previous attendance.
 Email and direct mail also performed well, validating current outreach channels.
 
+![Q4 Event Discovery](charts/q4_event_discovery.png.png)
+
 - **Q5: Buying influence**
   
 Over 80% of respondents either make or influence purchasing decisions.
+
+![Q5 Buying Influence](charts/q5_buying_influence.png.png)
 
 - **Q6: Company type**
   
 Most represented: Suppliers and End Product Manufacturers.
 
+![Q6 Company Type](charts/q6_company_type.png.png)
+
 - **Q7: Product interests**
   
 High interest in Fibers & Yarns, Machinery, and Woven Fabrics.
+
+![Q7 Product Interests](charts/q7_product_interests.png.png)
 
 - **Q8: Application areas**
   
 Strong presence in Clothtech, Indutech, and Hometech.
 
+![Q8 Application Areas](charts/q8_application_areas.png.png)
+
 - **Q9: Purchasing volume**
   
 Over 50% of companies have annual purchasing volumes above $3 million.
+
+![Q9 Purchasing Volume](charts/q9_purchasing_volume.png.png)
 
 # 4️⃣ Additional Insights
 - **Geographic Diversity:** Attendees came from 17 countries, though the U.S. dominates.
@@ -77,6 +99,7 @@ Over 50% of companies have annual purchasing volumes above $3 million.
 - **Most Answered Questions:** Q7 and Q8 were the most answered, suggesting high engagement with product and application topics.
   
 - **Visitor Type vs. Demographic Answers:**
+  
 The pivot tables revealed patterns such as:
 1. Students aligning with academic roles and younger age groups;
 2. Buyers showing strong purchasing influence;
