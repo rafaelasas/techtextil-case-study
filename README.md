@@ -79,8 +79,8 @@ Over 50% of companies have annual purchasing volumes above $3 million.
 4. Promote technical content to attract R&D and engineering professionals.
 
 # 🛠️ Tools Used
-- Python (Pandas, Matplotlib, Seaborn),
-- Jupyter Notebook,
+- Python (Pandas, Matplotlib, Seaborn);
+- Jupyter Notebook;
 - Excel dataset provided.
 
 # 🚀 How to Run This Project
