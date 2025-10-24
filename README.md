@@ -29,11 +29,14 @@ The analysis was conducted using Python and includes visualizations, demographic
 - This points to an opportunity for international outreach and marketing.
 
 # 3️⃣ Demographic Question Breakdown
-Each demographic question was analyzed individually. Charts were adapted for readability — horizontal layout was used when responses were long or numerous.
+Each demographic question was analyzed individually. Charts were adapted for readability and horizontal layout was used when responses were long or numerous.
+
 - **Q1: First-time attendance**
+
 ~80% of attendees are returning participants, indicating strong event loyalty.
 
 - **Q2: Job function**
+
 Most common roles: CEO/COO/Owner, Sales, and R&D Engineer.
 Suggests a mix of decision-makers and technical professionals.
 
@@ -41,22 +44,28 @@ Suggests a mix of decision-makers and technical professionals.
 Majority are aged 45–64, indicating a mature professional audience.
 
 - **Q4: How attendees heard about the show**
+
 Most common source: previous attendance.
 Email and direct mail also performed well, validating current outreach channels.
 
 - **Q5: Buying influence**
+  
 Over 80% of respondents either make or influence purchasing decisions.
 
 - **Q6: Company type**
+  
 Most represented: Suppliers and End Product Manufacturers.
 
 - **Q7: Product interests**
+  
 High interest in Fibers & Yarns, Machinery, and Woven Fabrics.
 
 - **Q8: Application areas**
+  
 Strong presence in Clothtech, Indutech, and Hometech.
 
 - **Q9: Purchasing volume**
+  
 Over 50% of companies have annual purchasing volumes above $3 million.
 
 # 4️⃣ Additional Insights
@@ -67,10 +76,10 @@ Over 50% of companies have annual purchasing volumes above $3 million.
 - **Most Answered Questions:** Q7 and Q8 were the most answered, suggesting high engagement with product and application topics.
   
 - **Visitor Type vs. Demographic Answers:**
-1. The pivot tables revealed patterns such as:
-2. Students aligning with academic roles and younger age groups;
-3. Buyers showing strong purchasing influence;
-4. Sales Staff aligning with commercial interests like Sporttech and Sales roles.
+The pivot tables revealed patterns such as:
+1. Students aligning with academic roles and younger age groups;
+2. Buyers showing strong purchasing influence;
+3. Sales Staff aligning with commercial interests like Sporttech and Sales roles.
 
 # 💡 Strategic Recommendations
 1. Expand international marketing, especially in countries with existing engagement;
