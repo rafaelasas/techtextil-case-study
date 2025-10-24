@@ -41,6 +41,7 @@ Most common roles: CEO/COO/Owner, Sales, and R&D Engineer.
 Suggests a mix of decision-makers and technical professionals.
 
 - **Q3: Age range**
+  
 Majority are aged 45–64, indicating a mature professional audience.
 
 - **Q4: How attendees heard about the show**
